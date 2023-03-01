@@ -1,0 +1,185 @@
+TermCursor guifg=#11041d guibg=#c100cd
+Directory guifg=#c100cd
+ErrorMsg guifg=#f4011b
+IncSearch guibg=#93022c
+Search guibg=#93022c
+MoreMsg guifg=#75801b
+ModeMsg cterm=bold gui=bold
+CursorLineNr guifg=#78737c
+Question guifg=#75801b
+StatusLine guifg=#78737c
+StatusLineNC guifg=#78737c
+VertSplit guifg=#93022c guibg=#11041d
+Title guifg=#75801b
+Visual guibg=#6e0328
+WarningMsg guifg=#f64a16
+WildMenu ctermfg=0 ctermbg=11 guifg=Black guibg=Yellow
+Folded guibg=#050109
+DiffAdd guibg=#1d131c
+DiffChange guibg=#1d131c
+DiffDelete guibg=#11041d
+DiffText guibg=#322d1c
+Conceal guifg=#78262b
+SpellBad cterm=undercurl gui=undercurl guisp=#ae7fd7
+SpellCap cterm=undercurl gui=undercurl guisp=#c100cd
+SpellRare cterm=undercurl gui=undercurl guisp=#d37fd7
+SpellLocal cterm=undercurl gui=undercurl guisp=#f4011b
+Pmenu guibg=#050109
+PmenuSel guibg=#93022c
+PmenuSbar guibg=#050109
+PmenuThumb guibg=#11041d
+TabLine guifg=#78737c
+TabLineSel guifg=#78737c guibg=#11041d
+TabLineFill guifg=#78737c
+CursorColumn guibg=#050109
+CursorLine guibg=#050109
+ColorColumn guibg=#050109
+NormalFloat guibg=#11041d
+FloatBorder guifg=#78737c
+WinBar cterm=bold gui=bold
+Cursor guifg=#11041d guibg=#c100cd
+lCursor guifg=bg guibg=fg
+Normal guifg=#f0e6f9 guibg=#11041d
+FloatShadow guibg=Black blend=80
+FloatShadowThrough guibg=Black blend=100
+RedrawDebugNormal cterm=reverse gui=reverse
+RedrawDebugClear ctermbg=11 guibg=Yellow
+RedrawDebugComposed ctermbg=10 guibg=Green
+RedrawDebugRecompose ctermbg=9 guibg=Red
+Error guifg=#f4011b
+Todo guifg=#ae7fd7
+String guifg=#f69916
+Constant guifg=#ae7fd7
+Function guifg=#c100cd
+Identifier guifg=#f0e6f9
+Conditional guifg=#75809b
+Statement guifg=#75809b
+Repeat guifg=#75809b
+Operator guifg=#f4011b
+Keyword guifg=#75809b
+Include guifg=#75809b
+PreProc guifg=#f4011b
+Type guifg=#75801b
+Tag guifg=#75801b
+Special guifg=#d37fd7
+Delimiter guifg=#f4011b
+DiagnosticError guifg=#f4011b
+DiagnosticWarn guifg=#f64a16
+DiagnosticInfo guifg=#ae7fd7
+DiagnosticHint guifg=#78737c
+DiagnosticOk ctermfg=10 guifg=LightGreen
+DiagnosticUnderlineError cterm=undercurl gui=undercurl guisp=#f4011b
+DiagnosticUnderlineWarn cterm=undercurl gui=undercurl guisp=#f64a16
+DiagnosticUnderlineInfo cterm=undercurl gui=undercurl guisp=#ae7fd7
+DiagnosticUnderlineHint cterm=undercurl gui=undercurl
+DiagnosticUnderlineOk cterm=underline gui=underline guisp=LightGreen
+@text.literal guifg=#78737c
+Comment cterm=italic gui=italic
+@text.reference guifg=#f69916
+@text.uri cterm=underline gui=underline guifg=#ae7fd7
+Underlined cterm=underline ctermfg=81 gui=underline guifg=#80a0ff
+MatchParen guibg=#24031f
+Ignore ctermfg=0 guifg=bg
+NvimInternalError guifg=#f4011b
+CmpItemAbbrDeprecated cterm=strikethrough gui=strikethrough guifg=#78737c
+CmpItemAbbrMatch guifg=#c100cd
+CmpItemAbbrMatchFuzzy guifg=#c100cd
+CmpItemKindVariable guifg=#75809b
+CmpItemKindInterface guifg=#75801b
+CmpItemKindText guifg=#f69916
+CmpItemKindFunction guifg=#c100cd
+CmpItemKindMethod guifg=#c100cd
+CmpItemKindKeyword guifg=#75809b
+CmpItemKindProperty guifg=#f69916
+CmpItemKindUnit guifg=#75801b
+CmpItemAbbr guifg=#f0e6f9
+CmpItemAbbrDefault guifg=#f0e6f9
+CmpItemKindDefault guifg=#78737c
+CmpItemKindFile guifg=#75801b
+CmpItemKindOperator guifg=#ae7fd7
+CmpItemKindTypeParameter guifg=#f69916
+CmpItemKindEnum guifg=#ae7fd7
+CmpItemKindModule guifg=#f69916
+CmpItemKindClass guifg=#75801b
+CmpItemKindConstant guifg=#ae7fd7
+CmpItemKindConstructor guifg=#75801b
+CmpItemKindFolder guifg=#75801b
+CmpItemKindReference guifg=#75809b
+CmpItemKindField guifg=#ae7fd7
+CmpItemKindSnippet guifg=#f69916
+CmpItemKindValue guifg=#75809b
+CmpItemKindEvent guifg=#75801b
+CmpItemKindStruct guifg=#75801b
+CmpItemKindEnumMember guifg=#ae7fd7
+LspReferenceText guibg=#24031f
+LspReferenceRead guibg=#24031f
+LspReferenceWrite guibg=#24031f
+GitSignsChange guifg=#f64a16
+GitSignsDelete guifg=#f4011b
+GitSignsAdd guifg=#75801b
+diffAdded guifg=#75801b
+diffRemoved guifg=#f4011b
+NoiceCmdlinePopup guibg=#050109
+NoiceMini guibg=#050109
+GitSignsDeletePreview guifg=#f0e6f9 guibg=#36031c
+GitSignsAddInline guibg=#322d1c
+TabbyHL_f2e9de_1b2021_NONE guifg=#f2e9de guibg=#1b2021
+TabbyHL_5f506b_1b2021_NONE guifg=#5f506b guibg=#1b2021
+TabbyHL_ffe5d9_5f506b_NONE guifg=#ffe5d9 guibg=#5f506b
+TabbyHL_1b2021_1b2021_NONE guifg=#1b2021 guibg=#1b2021
+TabbyHL_1b2021_5f506b_NONE guifg=#1b2021 guibg=#5f506b
+TabbyHL_f2e9de_5f506b_NONE guifg=#f2e9de guibg=#5f506b
+mkdCodeDelimiter guifg=#78737c
+LspDiagnosticsVirtualTextWarning guifg=#f64a16
+LspDiagnosticsVirtualTextError guifg=#f4011b
+NotifyDEBUGTitle guifg=#78737c
+CmpDocumentation guibg=#050109
+markdownCodeDelimiter guifg=#78737c
+markdownCode guifg=#78737c
+@tag.delimiter guifg=#78737c
+gitcommitSummary guifg=#ae7fd7
+NotifyDEBUGIcon guifg=#78737c
+NotifyDEBUGBorder guifg=#78737c
+NotifyINFOIcon guifg=#75801b
+NotifyINFOTitle guifg=#75801b
+NotifyINFOBorder guifg=#4f511b
+NotifyWARNTitle guifg=#f64a16
+NotifyWARNIcon guifg=#f64a16
+NotifyWARNBorder guifg=#a02f18
+NotifyERRORTitle guifg=#f4011b
+NotifyERRORIcon guifg=#f4011b
+NotifyERRORBorder guifg=#9e021b
+NvimTreeGitDirty guifg=#75801b
+NvimTreeRootFolder guifg=#75801b
+TelescopeSelection guibg=#24031f
+TelescopePromptPrefix guifg=#c100cd
+TelescopeBorder guifg=#050109 guibg=#050109
+TelescopeMatching guifg=#c100cd
+mkdCde guifg=#78737c
+mkdListItem guifg=#f4011b
+mkdHeading guifg=#f69916
+vimOption guifg=#75801b
+@text.strong cterm=bold gui=bold
+gitcommitDiscardedType guifg=#f4011b
+gitcommitSelectdType guifg=#75801b
+gitcommitUnmergedFile guifg=#f69916
+gitcommitSelectedFile guifg=#75801b
+gitcommitUnmerged guifg=#75801b
+gitcommitOverflow guifg=#f4011b
+Noise guifg=#f4011b
+TelescopePromptTitle guibg=#24031f
+NotifyBackground guibg=#11041d
+LuasnipInsert guifg=#f4011b
+LuasnipChoice guifg=#ae7fd7
+CursorLineLir guibg=#93022c
+LirEmptyDirText guibg=#93022c
+LirDir guifg=#c100cd
+NotifyLogTitle guifg=#75801b
+TelescopeSelectionCaret guifg=#ae7fd7 guibg=#93022c
+LazyNormal guibg=#050109
+gitcommitHeader guifg=#d37fd7
+TelescopePromptBorder guifg=#24031f guibg=#24031f
+@text.emphasis cterm=italic gui=italic
+gitcommitDiscardedFile guifg=#f4011b
+TelescopePromptNormal guibg=#24031f
+TelescopeNormal guibg=#050109
